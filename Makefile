@@ -1,0 +1,2 @@
+all:
+	env > index.html
